@@ -12,7 +12,6 @@
 ###############################################################################
 #*.cs     diff=csharp
 #*.css linguist-detectable=true
-#*.csharp linguist-detectable=true
 #*.html linguist-detectable=true
 
 ###############################################################################
